@@ -1,0 +1,2 @@
+jun 09, 2022 11:02:56 PM utils.AddLoggerInFile setHistory
+INFORMACIÓN: El jugador DAVIS obtuvo 300 puntos

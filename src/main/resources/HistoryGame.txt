@@ -1,0 +1,2 @@
+jun 09, 2022 11:29:31 PM utils.AddLoggerInFile setHistory
+INFORMACIÓN: El jugador david obtuvo 0 puntos
